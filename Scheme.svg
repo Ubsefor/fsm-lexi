@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="243 232 249 205" width="249" height="205">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="20" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.13 
+    <dc:date>2020-05-30 23:10:59 +0000</dc:date>
+  </metadata>
+  <g id="Полотно________1" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none">
+    <title>Полотно 1</title>
+    <rect fill="white" x="243" y="232" width="249" height="205"/>
+    <g id="Полотно________1: Слой 1">
+      <title>Слой 1</title>
+      <g id="Graphic_3">
+        <circle cx="273" cy="287" r="29.000046339155" fill="white"/>
+        <circle cx="273" cy="287" r="29.000046339155" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(254.8 277.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.016" y="15">S</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="421" cy="287" r="29.000046339155" fill="white"/>
+        <circle cx="421" cy="287" r="29.000046339155" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(402.8 277.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.016" y="15">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <circle cx="273" cy="407" r="29.000046339155" fill="white"/>
+        <circle cx="273" cy="407" r="29.000046339155" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(254.8 397.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.3520008" y="15">ERR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="421" cy="407" r="29.000046339155" fill="white"/>
+        <circle cx="421" cy="407" r="29.000046339155" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(402.8 397.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.784001" y="15">OK</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <path d="M 397.14083 303.49334 C 384.72346 310.0214 368.1544 316 349.1166 316 C 333.3218 316 318.6256 311.88477 306.44164 306.75474" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 297.76867 271.90365 C 312.0567 264.8578 331.2005 258 351.5901 258 C 365.73983 258 378.2441 261.30265 388.6021 265.67887" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 442.4117 267.4406 C 443.50845 267.11523 444.6352 266.8791 445.78896 266.75 C 460.32705 265.1234 469.34037 269.78464 472.31603 281.2585 C 475.2917 292.73234 470.83044 305.6234 456.29235 307.25 C 455.4203 307.34757 454.5259 307.36057 453.61495 307.2988" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <line x1="421" y1="316" x2="421" y2="368.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="403.6" y1="312" x2="304.46113" y2="384.1148" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <line x1="273" y1="316" x2="273" y2="368.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(343.8 237)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="8002488e-19" y="19">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(343.8 294.4)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="29132252e-20" y="19">b</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(475.4 272.4)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="8002488e-19" y="19">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(423.6 335.22)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="43343107e-20" y="19">EOL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(249.64 331)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="0" y="19">‘_’</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(354.6 351.8)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x="0" y="19">‘_’</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
