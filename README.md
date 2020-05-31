@@ -1,5 +1,7 @@
 # Finit State Machine – Haskell
 
+![](https://github.com/Ubsefor/fsm-lexi/workflows/Haskell/badge.svg)
+
 ## A small finit state machine, written in haskell
 
 The machine detects, whether entered line belongs to the given below grammar:
